@@ -1,0 +1,17 @@
+The United States of America (USA), commonly referred to
+as the United States (U.S.) or America, is a federal republic[16][17]
+consisting of 50 states and a federal district.
+The 48 contiguous states and Washington, D.C., are in
+central North America between Canada and Mexico.
+The state of Alaska is located in the northwestern part of
+North America and the state of Hawaii is an archipelago in the mid-Pacific.
+The country also has five populated and numerous unpopulated
+territories in the Pacific and the Caribbean.
+A1: It made it easy to see the differeces.
+A2: It allows us to quickly compare different versions.
+A3: Pros: you're confident everything is saved all the time.
+Cons: saves maybe too small or there may not be a logical connection between commits.
+A4: Git and Google Docs serve two different purposes so one uses them for completely different tasks.
+A5: Use git log to bring up all commit codes and messages. Then use git diff and copy the two relevent codes to reveal the exact changes.
+A6: It makes me feel more confident to try new changes without the fear of losing previous version.
+A7: Using git can help me manage my coding changes.
