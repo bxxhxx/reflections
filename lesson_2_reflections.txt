@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 A: You creat a .git file that makes it part of the git tracking system.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Staging area is basically git's list of who to track. The current directory is all files whether or not the git is tracking them. The value it offers is that allows us to only work on files that need to be worked on without investing any effort on other files.
+How can you use the staging area to make sure you have one commit per logical change?
+A: When I plan to change something, I first will put it in my stagomg area, do the chages, and once it's finished, I will commit.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: It helps you manage when you want try making an ulternative version without losing your original version.
