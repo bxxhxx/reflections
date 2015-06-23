@@ -7,4 +7,6 @@ A: When I plan to change something, I first will put it in my stagomg area, do t
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: It helps you manage when you want try making an ulternative version without losing your original version.
 How do the diagrams help you visualize the branch structure?
-A: Any diagram helps you visualizw the brach structure!
+A: Any diagram helps you visualize the branch structure!
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: By merging two branches, you can have new functions added to the master. Because it makes it easy to follow.
