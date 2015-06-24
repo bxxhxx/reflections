@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Clone is simply copying a file, either from a remote to the local computer, or withing the local computer (duplicating). Forking is a GitHub function where you copy another's repository to make your own changes, which do not affect the original repository. Branching is a function of Git, where you can edit files along different paths, such as creating an experimental functionality, without affecting another version of the file, such as a master.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 A: One value is that you can be off-line and work on improving the latest version of the file. Also, it allows you to manually do your changes and merge with remote braches.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Without Git or GitHub, one can use a cloud drive to share files, then you email your partner(s) to let them know what to expect. Having learned about Git and GitHub, it makes it easy to do changes and share with others.
