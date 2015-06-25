@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 A: One value is that you can be off-line and work on improving the latest version of the file. Also, it allows you to manually do your changes and merge with remote braches.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: Without Git or GitHub, one can use a cloud drive to share files, then you email your partner(s) to let them know what to expect. Having learned about Git and GitHub, it makes it easy to do changes and share with others.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: Whenever you're collaborating and anticipating multiple changes, it makes sense to work on branches. Once there is consensus, we'll then commit to master.
